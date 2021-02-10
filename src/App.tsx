@@ -42,7 +42,7 @@ function App() {
                 countryName="USA"
                 mainImage="https://i.pinimg.com/736x/22/54/8d/22548d63f14ea8349cf6f9d53767ab64.jpg"
                 googleMaps="https://www.google.com/maps?q=salem+ma&bih=796&biw=1440&rlz=1C5CHFA_enGB937GB938&hl=en&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjs_4beot_uAhVTTsAKHWeIAW0Q_AUIDygB"
-                explanation="A charismatically creepy little town not far from Boston. Go on their anti-Valentine's day tour for LOLs"
+                explanation="A charismatically creepy little town a short train ride away from Boston. Go on their anti-Valentine's day tour for LOLs"
             />
             <Footer />
         </div>
