@@ -1,0 +1,24 @@
+.Content {
+    box-sizing: border-box;
+    width: 100%;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: baseline; */
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: whitesmoke;
+    color: black;
+    font-family: Verdana;
+    object-fit: scale-down;
+    text-align: center;
+}
+
+/* .Image {
+    object-fit:contain;
+} */
+
+.Image1 {
+    height: 500px;
+    width: 800px;
+    object-fit: cover;
+}

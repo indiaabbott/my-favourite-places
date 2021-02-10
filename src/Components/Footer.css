@@ -1,12 +1,14 @@
 .Footer {
     box-sizing: border-box;
     width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: baseline;
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: baseline; */
     padding: 1em;
     margin-bottom: 2em;
     background-color: #606060;
     color: #fff;
     font-family: Verdana;
+    text-align: center;
+    font-size: 12px;
   }
